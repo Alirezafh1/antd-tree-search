@@ -1,0 +1,81 @@
+{
+  "treeData": {
+    "id": 1,
+    "name": "حسابداری",
+    "isFinal": false,
+    "children": [
+      {
+        "id": 2,
+        "name": "مقداردهی اولیه",
+        "isFinal": false,
+        "children": [
+          {
+            "id": 3,
+            "name": "مدیریت دوره‌های مالی",
+            "isFinal": false,
+            "children": [
+              {
+                "id": 4,
+                "name": "دوره مالی اولیه",
+                "isFinal": true
+              },
+              {
+                "id": 5,
+                "name": "دوره مالی ثانویه",
+                "isFinal": true
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "مدیریت اشخاص",
+            "isFinal": false,
+            "children": [
+              {
+                "id": 7,
+                "name": "مدیریت کارمندان",
+                "isFinal": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "گزارشات",
+        "isFinal": false,
+        "children": [
+          {
+            "id": 9,
+            "name": "مرور حساب‌ها",
+            "isFinal": false,
+            "children": [
+              {
+                "id": 10,
+                "name": "مرور حساب‌های سال جاری",
+                "isFinal": true
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "لیست گزارشات",
+            "isFinal": false,
+            "children": [
+              {
+                "id": 12,
+                "name": "لیست گزارشات اسناد",
+                "isFinal": true
+              },
+              {
+                "id": 13,
+                "name": "لیست گزارشات اشخاص",
+                "isFinal": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
